@@ -1,0 +1,5 @@
+' MsgBox "Hello World!", vbInformation, "Greeting"
+' MsgBox "This is a simple message box example.", vbExclamation, "Warning"
+' MsgBox "Do you want to continue?", vbYesNo + vbQuestion, "Confirmation"
+' MsgBox "An error has occurred. Please try again later.", vbCritical, "Error"
+MsgBox "Hello World!"
