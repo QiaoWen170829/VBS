@@ -2,7 +2,7 @@ Option Explicit
 
 Dim i:i = 0
 
-' 技术循环
+' 计数循环
 ' For i = 10 to 1 Step -1
 '     WScript.Echo i
 '     If i = 5 Then
